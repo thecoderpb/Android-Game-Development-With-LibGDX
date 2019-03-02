@@ -10,4 +10,4 @@ Lets set-up our environment first.
  * You should hopefully see a welcome screen. Refer <a href="https://drive.google.com/open?id=1pHYpXN_a9-4hv4LCv8hvT8I-1GLI-T5G"> this guide </a> for more info.
    <br>FYI: A network connection is needed while setting up for the first time or else you might end up with some IDE errors
  
-<img src="https://github.com/thecoderpb/Android-Game-Development-With-LibGDX/blobs/android-intro.png" width = "100" height = "100">
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/android-intro.png" >
