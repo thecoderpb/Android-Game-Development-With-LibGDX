@@ -14,4 +14,9 @@ Firstly, lets set-up our environment.
  
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/android-intro.png" >
 
+<h1><b>Setting up the emulator</h1></b>
 
+Emulator is essentially a simulator which creates a virtual device on your PC where you can test your app. It is quite handy as we can 
+run our app on various device without the need of having one. More info about how to install and use can be found <a href="https://developer.android.com/studio/run/emulator">here</a><br>
+I personally would prefer using a real device here as it is much easier to use.
+Check out <a href="https://developer.android.com/training/basics/firstapp/running-app">this</a> document for how to connect your device and run your app on it.
