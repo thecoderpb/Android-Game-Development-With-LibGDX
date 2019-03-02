@@ -39,6 +39,13 @@ You should end up with something like this.
 
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/gdx-success-install.png" alt="loading...">
 
-There you go. Your Setup is complete.Go ahead and explore the files and its contents.<br>
+There you go. Your Setup is complete. Go ahead and explore the files and its contents.<br>
 More references available <a href="https://libgdx.badlogicgames.com/documentation/" alt="loading...">here</a>
+<b><u>NOTE:</b></u><br>
+* It is very likely that you would end up with many errors and issues as you move forward through this course.
+  You might have issues just for setting up the environment. I would address most of the common issues nevertheless but I would add that 
+  most of the issues can be solved just by googling it out. You can reach out to me but I would recommend you do some research yourself as
+  in the process of searching solution for the problem, you would learn alot
+* References and Guides which I will post here might be found overwhelming to you but just focus on the problem. As time goes by, you would 
+  get used to it.
 
