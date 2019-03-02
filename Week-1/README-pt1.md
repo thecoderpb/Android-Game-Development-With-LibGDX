@@ -12,7 +12,7 @@ Firstly, lets set-up our environment.
  * Installation is pretty straight forward.
  * You should hopefully see a welcome screen. Refer <a href="https://drive.google.com/open?id=1pHYpXN_a9-4hv4LCv8hvT8I-1GLI-T5G"> this guide </a> for more info.
    <br>FYI: A network connection is needed while setting up for the first time or else you might end up with some IDE errors
- * Further references for <a href = "">Windows,Linux & Mac.</a>
+ * Further references for <a href = "https://developer.android.com/studio/install">Windows,Linux & Mac.</a>
  
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/android-intro.png" alt ="loading..." >
 
@@ -51,7 +51,7 @@ More references available <a href="https://libgdx.badlogicgames.com/documentatio
 * References and Guides which I will post here might be found overwhelming to you but just focus on the problem. As time goes by, you would 
   get used to it.
 
-<h3><b> Alright then. We are now on our way to build our first game. We have our environment ready, all the tools necessary But...<br>.
+<h5><b> Alright then. We are now on our way to build our first game. We have our environment ready, all the tools necessary But...<br>.
    <br>.<br>we have to cover some basics first :(<br>
    Don't worry it won't be long. We'll wizz by it and start our game development asap<br>
-   For now, head over to part 2 where we'll brush by some basics of Java<b></h3>
+   For now, head over to part 2 where we'll brush by some basics of Java<b></h5>
