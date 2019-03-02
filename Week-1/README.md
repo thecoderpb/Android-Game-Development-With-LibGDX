@@ -31,10 +31,15 @@ Check out <a href="https://developer.android.com/training/basics/firstapp/runnin
 
 * You are most likely to get a warning stating 'You have a more recent version of build tools than recommended'. Click on Yes
 * If all goes well a project file will be generated in the destination folder. Again internet connection is required
-* Navigate to Android Studio File>Open. Now navigate to the location where the file is generated. Click on project with android studio logo and click Ok
+* Now go to Android Studio File>Open. Navigate to the location where the file is generated. Click on the project with android and click Ok
 
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/libgdx-project.png" alt="loading...">
 
-There you go. Your Setup is complete.
-More references available <a href="">here</a>
+You should end up with something like this.
+
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/gdx-success-install.png" alt="loading...">
+
+There you go. Your Setup is complete.<br>
+Go ahead and explore the files and contents.<br>
+More references available <a href="https://libgdx.badlogicgames.com/documentation/" alt="loading...">here</a>
 
