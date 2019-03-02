@@ -53,6 +53,6 @@ More references available <a href="https://libgdx.badlogicgames.com/documentatio
   get used to it.
 
 <b> Alright then. We are now on our way to build our first game. We have our environment ready, all the tools necessary But...<br>.
-   <br>.<br>we have to cover some basics first :(<br>
+   <br>.<br>we have to cover some basics first  :(<br>
    Don't worry it won't be long. We'll wizz by it and start our game development asap<br>
-   For now, head over to part 2 where we'll brush by some basics of Java<b>
+   For now, head over to <a href="" alt="loading...">part 2 </a>where we'll brush by some basics of Java<b>
