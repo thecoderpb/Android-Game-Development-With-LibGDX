@@ -43,6 +43,7 @@ You should end up with something like this.
 
 There you go. Your Setup is complete. Go ahead and explore the files and its contents.<br>
 More references available <a href="https://libgdx.badlogicgames.com/documentation/" alt="loading...">here.</a><br>
+<br>
 <b><u>NOTE:</b></u><br>
 * It is very likely that you would end up with many errors and issues as you move forward through this course.
   You might have issues just for setting up the environment. I would address most of the common issues nevertheless but I would add that 
@@ -51,7 +52,7 @@ More references available <a href="https://libgdx.badlogicgames.com/documentatio
 * References and Guides which I will post here might be found overwhelming to you but just focus on the problem. As time goes by, you would 
   get used to it.
 
-<h5><b> Alright then. We are now on our way to build our first game. We have our environment ready, all the tools necessary But...<br>.
+<b> Alright then. We are now on our way to build our first game. We have our environment ready, all the tools necessary But...<br>.
    <br>.<br>we have to cover some basics first :(<br>
    Don't worry it won't be long. We'll wizz by it and start our game development asap<br>
-   For now, head over to part 2 where we'll brush by some basics of Java<b></h5>
+   For now, head over to part 2 where we'll brush by some basics of Java<b>
