@@ -20,3 +20,7 @@ Emulator is essentially a simulator which creates a virtual device on your PC wh
 run our app on various device without the need of having one. More info about how to install and use can be found <a href="https://developer.android.com/studio/run/emulator">here</a><br>
 I personally would prefer using a real device here as it is much easier to use.
 Check out <a href="https://developer.android.com/training/basics/firstapp/running-app">this</a> document for how to connect your device and run your app on it.
+
+Downloading LibGDX
+
+* Download executable JAR file from <a href="https://libgdx.badlogicgames.com/download.html">here</a> or <a href="https://drive.google.com/open?id=1DGmJ7Wo9DKwIKdz983ILiVxMpS4sgeot">here.</a>
