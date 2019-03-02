@@ -21,13 +21,14 @@ run our app on various device without the need of having one. More info about ho
 I personally would prefer using a real device here as it is much easier to use.
 Check out <a href="https://developer.android.com/training/basics/firstapp/running-app">this</a> document for how to connect your device and run your app on it.
 
-Downloading LibGDX
+<h1><b>Downloading LibGDX</h1></b>
 
 * Download executable JAR file from <a href="https://libgdx.badlogicgames.com/download.html">here</a> or <a href="https://drive.google.com/open?id=1DGmJ7Wo9DKwIKdz983ILiVxMpS4sgeot">here.</a><br> You may get a warning when downloading but proceed to keep the file anyway.
 * Execute the file and keep configurations as shown below
 * Android SDK path can be found in Tools>SDK Manager in android studio
 * Hit Generate.
 <img src="https://github.com/thecoderpb/Android-Game-Development-With-LibGDX/blob/master/blobs/libgdx.png" alt="loading...">
+
 * You are most likely to get a warning stating 'You have a more recent version of build tools than recommended'. Click on Yes
 * If all goes well a project file will be generated in the destination folder.
 
