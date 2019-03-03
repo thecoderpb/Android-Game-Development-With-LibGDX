@@ -25,4 +25,10 @@ Now to fill the whole screen of the device, we can use <b>Gdx.graphics.getWidth(
 Similarly we can now draw image for the bird. We can center the bird by getting the height and width of the screen and divide it by 2.<br>
 Your final code should look something like this.<br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/code-pt1.png" alt="loading"><br>
-
+Hmm, that doesn't feel right. The bird's batch.draw() arguments are abit different. Why is it like dat? - Think about that<b>
+ 
+ We will now make the bird to flap. At this stage it is convinient to convert the bird into an array of bird with size 2. We can introduce a flapState variable which switches the image every time the loop is executed. Try it out. Need help? Refer to <a href="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/code-pt2.png">this</a>
+ 
+ <h2> Making The Bird Flap </h2>
+ Now our bird is flapping but it isn't doing much. It must respond to our input. Again gdx class provides us convinient ways to do so.<br> We are going to use Gdx.input.justTouched() method. This method returns boolen value.<br>
+ Whenever we tap the screen, we would like our bird to be pushed up a little bit against gravity. We will primarily be working with the Y coordinate.
