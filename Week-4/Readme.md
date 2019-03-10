@@ -9,7 +9,6 @@ An additional conditional check of the tube to be less than number of tubes ie 4
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/scoring.png" alt="loading"><br>
 Now the score is incrementing but we really can't see it. To display it, we are going to use a class called BitmapFont.<br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/font.png" alt="loading"> <br>
-<br>
 Coming to the last part of setting up game over screen, it's pretty easy. Just change game state to 2 and check in outer most if statement if it is
 true. If true, we can capture the state of the game and display a game over message. Easy right?<br>
 The full code can be found <a href="">here</a>
@@ -21,3 +20,14 @@ Let's say you have written huge amount of code and then for some reason you have
 and every line and rename the variable. Refactoring comes in handy.
 Just hit shift+f6 and type the desired variable name you want and the code will be refactored.
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/refactor.png">
+
+<h1> Now what? </h1>
+So in this 4 week long course, we started with nothing. We downloaded Android Studio and setup our game development environment. Android
+studio seemed scary at the beginning, now not so much. We also gained some decent enough knowledge of java. We then started to develop
+our game. The second week was way tooo stressful, 3rd week not so much. At the end, we produced something which is worth publishing to the
+playstore. But now what?<br>
+It doesn't end here for you, it's just the beginning.<br>
+If you are serious in game development, start trying to make your own game. Take up courses and search for references online.<br>
+The game for you my friend, has just started...
+
+<strong> You are expected to show your assignment "Chrome Dino Game" this week. Final submission. Make sure you submit it on time</strong> 
