@@ -40,12 +40,11 @@ Hmm, that doesn't feel right. The bird's batch.draw() arguments are abit differe
   Try changing the value's of constants and see how the effects take place. This is how the game difficultly can be changed.
   Also try re-arranging the code and see how drastic the changes takes place.
   <br><br>
-  <strong> Alrighty, we are almost half way home. Its time to get the pipes which would complete this week's target.<strong>
+  <strong> Alrighty, we are almost half way home. Its time to get the pipes which would complete this week's target.</strong>
   
   <h1> Bringing In The Pipes </h1>
   
-  Okay so this part is a bit tricky, so heads up. Try reading again and again and if you don't get it, approach me.<br>
-<br>
+ Okay so this part is a bit tricky, so heads up. Try reading again and again and if you don't get it, approach me.<br>
 
 Our bird is flapping in Y-coordinate. We move our tubes from right to left which brings an illusion that the  bird is moving through the
 pipes. Lets start by drawing tubes topTube and bottomTube.<br>
