@@ -79,7 +79,7 @@ Observe line 76-84, the if condition specifies that if the i'th tube is less tha
 4(no. of tubes) times the distance between tubes. Distance between tube's is specified to be 3/4th the screen width.
 
 <br><br>
-<strong> There you go. That complete's the UI development. It might have been hectic, but at the end you have made a complete UI of the game</strong><br>
+<strong> There you go. That complete's the UI development. It might have been hectic, but at the end you have made a complete UI of the game. If you caught some hiccup in the code(which there is), try to resolve it, it's easy ;)</strong><br>
 You can find the whole code for this week <a href="">here</a>,but again it is recommended that you try it out first.<br><br>
 That wraps up Week 2.
 Head over to assignments section and make sure you complete it before the deadline.
