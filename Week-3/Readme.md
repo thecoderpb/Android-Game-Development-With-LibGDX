@@ -7,5 +7,5 @@ Now since our UI is up and running, it is not interacting with each other.
 So let's enable collision detected to our bird.
 
 <h1> The ShapeRenderer Class</h1>
-Basically it draws a detectable shapes on a texture.It renders points, lines, shape outlines and filled shapes.
+Basically it draws a detectable shapes on a texture. It renders points, lines, shape outlines and filled shapes.<br>
 More info <a href="https://libgdx.badlogicgames.com/ci/nightlies/docs/api/com/badlogic/gdx/graphics/glutils/ShapeRenderer.html">here</a>
