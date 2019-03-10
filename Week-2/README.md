@@ -74,7 +74,7 @@ different offset for each tube, hence make that's also as an array of offset's.<
 <u>Code snippet from create method</u><br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotion.png" alt="loading">
 <br><u> Code snippet from render method</u><br>
-<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotion1.png" alt="loading">
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotions.png" alt="loading">
 <br>
 Observe line 76-84, the if condition specifies that if the i'th tube is less than the width of the tube ie. out of the screen, move it by 
 4(no. of tubes) times the distance between tubes. Distance between tube's is specified to be 3/4th the screen width.
