@@ -60,7 +60,22 @@ We can specify the limits of randInt as desired, just make sure the gap should n
 
 <h1> It's Time To Move The Pipes </h1>
 
-In this last section, we will finally move the tubes.
+In this last section, we will finally move the tubes.<br>
+The basic idea is to make an array of tubes, and move them across the screen with a constant distance between tubes. As the tubes move
+in and out , the tube is shifted back to the right of the screen hence giving an endless loop of tubes.
+<br><br>
+To begin, replace the values of X-coordinate of batch.draw() of topTube and bottomTube to tubeX and assign value to it.<br>
+
+For now we will just move the tube from left to right. Just reduce tubeX value by a constant(4) and run it. The constant will determine the 
+speed.
+
+Now since we have done it to a single tube, it is easy to make it for 4 tubes. Change tubeX to array of tubes. We would also like to have
+different offset for each tube, hence make that's also as an array of offset's.<br>
+<u>Code snippet from create method</u>
+<img src="" alt="loading">
+
+
+
   
   
   
