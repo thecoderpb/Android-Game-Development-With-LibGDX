@@ -43,5 +43,9 @@ Hmm, that doesn't feel right. The bird's batch.draw() arguments are abit differe
   
   <h1> Bringing In The Pipes </h1>
   
+  Okay so this part is a bit tricky, so heads up. Try reading again and again and if you don't get it, approach me.<br>
+<br>
+
+  
   
   
