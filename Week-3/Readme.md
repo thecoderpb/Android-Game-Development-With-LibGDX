@@ -46,3 +46,14 @@ So with this, we complete 90% of our coding part. Our game is almost ready.
 That's it. It's just one line of code.
 <br>The intersector.overlaps() as it's name suggest checks if the bird collides with topRectangle or bottomRectangle and if it's true
 we change the gameState.
+
+<h1>Scoring and GameOver Screen</h1>
+ <br>
+The difficult part of coding is done. Yay!<br>
+Whatever we discuss from here onwards and next week will all be suggestion's. The core implementation and concept's are done.
+Now your job is to work on the score logic.<br>
+Look it up on google. Search for how you draw any text onto the screen.(I will be using BitmapFont). Think on the logic, it's easy.
+Make a game over screen. Change the state of the game when collision is detect and accordingly customize what you desire to do.
+
+<br><br>
+<strong>Complete assignment's and task's before deadline.</strong>
