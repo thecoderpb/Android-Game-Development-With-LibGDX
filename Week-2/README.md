@@ -47,6 +47,12 @@ Hmm, that doesn't feel right. The bird's batch.draw() arguments are abit differe
   Okay so this part is a bit tricky, so heads up. Try reading again and again and if you don't get it, approach me.<br>
 <br>
 
+Our bird is flapping in Y-coordinate. We move our tubes from right to left which brings an illusion that the  bird is moving through the
+pipes. Lets start by drawing tubes topTube and bottomTube.<br>
+Here's a challenge, try to draw the two tubes wrt centre of the screen with a gap of 400 between them.<a href="https://drive.google.com/open?id=18bKTlIrWRBb2I2hy-OXR1kfM5rfJWaji">This</a> might help you
+to get the coordinates right. The red circle is (0,0). <br>You can find the code <a href="https://drive.google.com/open?id=1-W0xH_ss8CsWav60dcJ2-FBg9xH7_6N6">here.</a><strong> Make sure you <u>try</u> before viewing the code.</strong><br>
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubes.png" alt="loading">
+
   
   
   
