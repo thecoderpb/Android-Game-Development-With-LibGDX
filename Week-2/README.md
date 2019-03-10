@@ -52,6 +52,10 @@ Here's a challenge, try to draw the two tubes wrt centre of the screen with a ga
 to get the coordinates right. The red circle is (0,0). <br>You can find the code <a href="https://drive.google.com/open?id=1-W0xH_ss8CsWav60dcJ2-FBg9xH7_6N6">here.</a><b> Make sure you <u>try</u> before viewing the code.</b><br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubes.png" alt="loading" align = "center">
 
+Now that we have drawn the pipes it's time to randomise the height of the tubes.
+Just start by initializing a new random variable in create method. Use the (random_variable_name).nextInt() to generate a random value and store it in an integer. It is better if we restrict the max value to where the random value will be generated. Here is the code which will give you an idea.
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/randomValGenerator.png" alt="loading"> 
+
   
   
   
