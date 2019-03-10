@@ -6,7 +6,7 @@ issues working with score logic and developing gameOver screen, lets get over th
 <h1> Scoring and GameOver Screen</h1>
 The idea is to check it the tube has passed from the screen, if so then increment the score by 1.<br>
 An additional conditional check of the tube to be less than number of tubes ie 4 is necessary.
-<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/scoring.png" alt="loading"><br?
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/scoring.png" alt="loading"><br>
 Now the score is incrementing but we really can't see it. To display it, we are going to use a class called BitmapFont.<br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/font.png" alt="loading"> <br>
 <br>
@@ -14,3 +14,10 @@ Coming to the last part of setting up game over screen, it's pretty easy. Just c
 true. If true, we can capture the state of the game and display a game over message. Easy right?<br>
 The full code can be found <a href="">here</a>
 
+<h1>Code Optimization</h1>
+Code Optimization is essential for either if your are planning to develop a small app or a large app. Head over <a href="https://www.viva64.com/en/t/0084/" alt="loading">here</a> to get some basic understanding of it.
+<h5>Refactoring</h5>
+Let's say you have written huge amount of code and then for some reason you have to change a field name. You can't possibly go to each
+and every line and rename the variable. Refactoring comes in handy.
+Just hit shift+f6 and type the desired variable name you want and the code will be refactored.
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/refactor.png">
