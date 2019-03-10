@@ -66,8 +66,8 @@ in and out , the tube is shifted back to the right of the screen hence giving an
 <br><br>
 To begin, replace the values of X-coordinate of batch.draw() of topTube and bottomTube to tubeX and assign value to it.<br>
 
-For now we will just move the tube from left to right. Just reduce tubeX value by a constant(4) and run it. The constant will determine the speed.
-![](https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/flappybird.gif)
+For now we will just move the tube from left to right. Just reduce tubeX value by a constant(4) and run it. The constant will determine the speed.<br>
+![](https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/flappybird.gif)<br>
 Now since we have done it to a single tube, it is easy to make it for 4 tubes. Change tubeX to array of tubes. We would also like to have
 different offset for each tube, hence make that's also as an array of offset's.<br>
 <u><b>Code snippet from create method</b></u><br>
