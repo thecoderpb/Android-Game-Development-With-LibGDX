@@ -55,6 +55,7 @@ to get the coordinates right. The red circle is (0,0). <br>You can find the code
 Now that we have drawn the pipes it's time to randomise the height of the tubes.
 Just start by initializing a new random variable in create method. Use the (random_variable_name).nextInt() to generate a random value and store it in an integer. It is better if we restrict the max value to where the random value will be generated. Here is the code which will give you an idea.<br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/randomValGenerator.png" alt="loading"> 
+We can specify the limits of randInt as desired, just make sure the gap should not get out of the screen. Once satisfied add it to the batch.draw() methods of both topTube and bottomTube. 
 
   
   
