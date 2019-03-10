@@ -71,13 +71,19 @@ speed.
 
 Now since we have done it to a single tube, it is easy to make it for 4 tubes. Change tubeX to array of tubes. We would also like to have
 different offset for each tube, hence make that's also as an array of offset's.<br>
-<u>Code snippet from create method</u><br>
+<u><b>Code snippet from create method</b></u><br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotion.png" alt="loading">
-<br><u> Code snippet from render method</u><br>
+<br><u><b> Code snippet from render method</b></u><br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotions.png" alt="loading">
-<br>
+<br><br>
 Observe line 76-84, the if condition specifies that if the i'th tube is less than the width of the tube ie. out of the screen, move it by 
 4(no. of tubes) times the distance between tubes. Distance between tube's is specified to be 3/4th the screen width.
+
+<br><br>
+<strong> There you go. That complete's the UI development. It might have been hectic, but at the end you have made a complete UI of the game</strong><br>
+You can find the whole code for this week <a href="">here</a>,but again it is recommended that you try it out first.<br><br>
+That wraps up Week 2.
+Head over to assignments section and make sure you complete it before the deadline.
 
 
   
