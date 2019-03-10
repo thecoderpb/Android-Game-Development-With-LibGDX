@@ -50,7 +50,7 @@ Our bird is flapping in Y-coordinate. We move our tubes from right to left which
 pipes. Lets start by drawing tubes topTube and bottomTube.<br>
 Here's a challenge, try to draw the two tubes wrt centre of the screen with a gap of 400 between them.<a href="https://drive.google.com/open?id=18bKTlIrWRBb2I2hy-OXR1kfM5rfJWaji">This</a> might help you
 to get the coordinates right. The red circle is (0,0). <br>You can find the code <a href="https://drive.google.com/open?id=1-W0xH_ss8CsWav60dcJ2-FBg9xH7_6N6">here.</a><b> Make sure you <u>try</u> before viewing the code.</b><br>
-<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubes.png" alt="loading" align = "center"><br>
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubes.png" alt="loading"  align="centre"><br>
 
 Now that we have drawn the pipes it's time to randomise the height of the tubes.
 Just start by initializing a new random variable in create method. Use the (random_variable_name).nextInt() to generate a random value and store it in an integer. It is better if we restrict the max value to where the random value will be generated. Here is the code which will give you an idea.<br>
@@ -71,7 +71,7 @@ For now we will just move the tube from left to right. Just reduce tubeX value b
 Now since we have done it to a single tube, it is easy to make it for 4 tubes. Change tubeX to array of tubes. We would also like to have
 different offset for each tube, hence make that's also as an array of offset's.<br>
 <u><b>Code snippet from create method</b></u><br>
-<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotion.png" alt="loading">
+<img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotion.png"  alt="loading">
 <br><u><b> Code snippet from render method</b></u><br>
 <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/tubeMotions.png" alt="loading">
 <br><br>
