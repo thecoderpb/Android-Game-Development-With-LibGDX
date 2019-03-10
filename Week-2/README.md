@@ -38,6 +38,7 @@ Hmm, that doesn't feel right. The bird's batch.draw() arguments are abit differe
   Second <b>if</b> is executed only when a touch is registered. The 2nd nested <b>if</b> makes sure the bird does not go out of the screen.
   Go ahead and run it on you emulator/device. The bird flaps and is pushed up every time you touch the screen.<br>
   Try changing the value's of constants and see how the effects take place. This is how the game difficultly can be changed.
+  Also try re-arranging the code and see how drastic the changes takes place.
   <br><br>
   <strong> Alrighty, we are almost half way home. Its time to get the pipes which would complete this week's target.<strong>
   
