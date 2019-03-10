@@ -31,5 +31,9 @@ Hmm, that doesn't feel right. The bird's batch.draw() arguments are abit differe
  
  <h2> Making The Bird Flap </h2>
  Now our bird is flapping but it isn't doing much. It must respond to our input. Again gdx class provides us convinient ways to do so.<br> We are going to use Gdx.input.justTouched() method. This method returns boolen value.<br>
- Whenever we tap the screen, we would like our bird to be pushed up a little bit against gravity. We will primarily be working with the Y coordinate. We introduce a gameState variable which keeps track of the state of the game. Initial value is set to zero. Whenever an input is detected we change the gameState to 1.<br> A velocity variable which increments every time by one is also added. We then change birdY coordinate by decrementing it by the velocity variable.<br>
- The whole code description is written in an if block where it checks if gameState is 1 or not
+ Whenever we tap the screen, we would like our bird to be pushed up a little bit against gravity. We will primarily be working with the Y coordinate. We introduce a gameState variable which keeps track of the state of the game. Initial value is set to zero. Whenever an input is detected we change the gameState to 1.<br><strong> A velocity variable which increments every time by one is also added. We then change birdY coordinate by decrementing it by the velocity variable.<br><strong>
+ The whole code description is written in an if block where it checks if gameState is 1 or not.
+  <img src="https://raw.githubusercontent.com/thecoderpb/Android-Game-Development-With-LibGDX/master/blobs/birdFlap.png" alt="loading">
+  In the first <b>if</b> condition we set the velocity to -30. This essentially pushes the bird up.<br>
+  Second <b>if</b> is executed only when a touch is registered. The 2nd nested <b>if</b> makes sure the bird does not go out of the screen.
+  Go ahead and run it on you emulator/device. The bird flaps and is pushed up every time you touch the screen.
