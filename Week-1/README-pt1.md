@@ -2,8 +2,6 @@ Hey there, it's good to see you.
 Your journey towards game development begins from here.<br>
 Lets get started!
 
-Link to this week's <a href=""> video.</a> 
-
 Firstly, lets set-up our environment.
 
 <H1><b> Installing Android Studio </H1></b>
